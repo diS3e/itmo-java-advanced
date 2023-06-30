@@ -1,0 +1,12 @@
+Text statistic
+Analyse file: java-solutions\info\kgeorgiy\ja\samodelov\i18n\tests\sources\easy_ar_AE.txt
+
+	General statistic
+	Count sentences: 1	Count words: 2	Count numbers: 16	Count money: 0	Count dates: 2
+	Stat on sentence: 	Count sentences: 1	Uniq count sentences: 1	Min on sentences: ااعداد: ۱۰ ، ۱۱ ، ۱۲ ، ۱۳ ، ۱۴ ، ۱۵ ، ۱۶ ، ۱۷ ، ۱۸ ، ۱۹
+تاریخ: ۱١‏/۱٦‏/٢٠٢۳         ٢‏/٦‏/٢٢٠٢۳	Max on sentences: ااعداد: ۱۰ ، ۱۱ ، ۱۲ ، ۱۳ ، ۱۴ ، ۱۵ ، ۱۶ ، ۱۷ ، ۱۸ ، ۱۹
+تاریخ: ۱١‏/۱٦‏/٢٠٢۳         ٢‏/٦‏/٢٢٠٢۳	Min length on sentences: 95	Max length on sentences: 95	Average on sentences: 95.0
+	Stat on word: 	Count words: 2	Uniq count words: 2	Min on words: ااعداد	Max on words: تاریخ	Min length on words: 5	Max length on words: 6	Average on words: 5.5
+	Stat on number: 	Count numbers: 16	Uniq count numbers: 14	Min on numbers: 2	Max on numbers: 22023	Min length on numbers: 1	Max length on numbers: 5	Average on numbers: 1515
+	Stat on money: 	Count money: 0
+	Stat on date: 	Count dates: 2	Uniq count dates: 2	Min on dates: Thu Apr 11 00:00:00 MSK 2024	Max on dates: Fri Jun 02 00:00:00 MSK 22023	Min length on dates: 28	Max length on dates: 29	Average on dates: Mon Nov 06 00:00:00 MSK 12023

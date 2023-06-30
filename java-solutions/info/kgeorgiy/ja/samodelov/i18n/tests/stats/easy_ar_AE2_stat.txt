@@ -1,0 +1,10 @@
+Text statistic
+Analyse file: java-solutions\info\kgeorgiy\ja\samodelov\i18n\tests\sources\easy_ar_AE2.txt
+
+	General statistic
+	Count sentences: 0	Count words: 0	Count numbers: 0	Count money: 0	Count dates: 0
+	Stat on sentence: 	Count sentences: 0
+	Stat on word: 	Count words: 0
+	Stat on number: 	Count numbers: 0
+	Stat on money: 	Count money: 0
+	Stat on date: 	Count dates: 0

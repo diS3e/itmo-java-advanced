@@ -1,0 +1,4 @@
+Plain text in Russian to test the overall functionality.
+Numbers: 0, 1, 10, 10, -1, -2, -300, -1.1, 0.0, 0.1, 123.389.
+Money: $1, $2, $1003, $0.
+Dates: 01.01.2023, Вторник, 2 января 2023 г.

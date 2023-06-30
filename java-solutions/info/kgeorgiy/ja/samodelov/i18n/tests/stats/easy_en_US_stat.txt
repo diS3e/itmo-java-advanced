@@ -1,0 +1,10 @@
+Text statistic
+Analyse file: java-solutions\info\kgeorgiy\ja\samodelov\i18n\tests\sources\easy_en_US.txt
+
+	General statistic
+	Count sentences: 4	Count words: 15	Count numbers: 18	Count money: 4	Count dates: 0
+	Stat on sentence: 	Count sentences: 4	Uniq count sentences: 4	Min on sentences: Dates: 01.01.2023, Вторник, 2 января 2023 г.	Max on sentences: Plain text in Russian to test the overall functionality.	Min length on sentences: 25	Max length on sentences: 61	Average on sentences: 46.5
+	Stat on word: 	Count words: 15	Uniq count words: 15	Min on words: dates	Max on words: января	Min length on words: 1	Max length on words: 13	Average on words: 5.2
+	Stat on number: 	Count numbers: 18	Uniq count numbers: 14	Min on numbers: -300	Max on numbers: 2023	Min length on numbers: 1	Max length on numbers: 7	Average on numbers: 120.584
+	Stat on money: 	Count money: 4	Uniq count money: 4	Min on money: 0	Max on money: 1003	Min length on money: 1	Max length on money: 4	Average on money: 252
+	Stat on date: 	Count dates: 0

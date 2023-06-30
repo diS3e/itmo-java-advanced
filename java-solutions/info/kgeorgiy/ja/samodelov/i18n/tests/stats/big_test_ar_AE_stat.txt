@@ -1,0 +1,10 @@
+Text statistic
+Analyse file: java-solutions\info\kgeorgiy\ja\samodelov\i18n\tests\sources\big_test_ar_AE.txt
+
+	General statistic
+	Count sentences: 108	Count words: 2076	Count numbers: 0	Count money: 0	Count dates: 0
+	Stat on sentence: 	Count sentences: 108	Uniq count sentences: 103	Min on sentences: .	Max on sentences: یکی شروع کرد به گریه کردن، چون از رقص بی پایان خسته شده بود، و خواست که دست از کار بکشد، اما دیگری بی صدا او را در آغوش گرفت و به اطراف چرخاند، و دوباره شروع به جمع شدن و پراکندگی کرد و در هر قدم اشک گل آلود بزرگی چکید.	Min length on sentences: 1	Max length on sentences: 268	Average on sentences: 85.81481481481481
+	Stat on word: 	Count words: 2076	Uniq count words: 734	Min on words: آبی	Max on words: یکی	Min length on words: 1	Max length on words: 12	Average on words: 3.320809248554913
+	Stat on number: 	Count numbers: 0
+	Stat on money: 	Count money: 0
+	Stat on date: 	Count dates: 0

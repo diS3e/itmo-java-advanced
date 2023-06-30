@@ -1,0 +1,2 @@
+Main-Class: info.kgeorgiy.ja.samodelov.implementor.Implementor
+Implementation-Vendor: Eugene Samodelov

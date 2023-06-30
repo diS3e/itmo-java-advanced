@@ -1,0 +1,12 @@
+Text statistic
+Analyse file: java-solutions\info\kgeorgiy\ja\samodelov\i18n\tests\sources\big_test_ch_CH.txt
+
+	General statistic
+	Count sentences: 87	Count words: 177	Count numbers: 0	Count money: 0	Count dates: 0
+	Stat on sentence: 	Count sentences: 87	Uniq count sentences: 87	Min on sentences: 三月三日
+
+今天， 我朋友坐飞机回国。	Max on sentences: 这给我的第一印象如何？	Min length on sentences: 4	Max length on sentences: 42	Average on sentences: 17.0
+	Stat on word: 	Count words: 177	Uniq count words: 172	Min on words: skype	Max on words: 这给我的第一印象如何	Min length on words: 2	Max length on words: 18	Average on words: 6.909604519774011
+	Stat on number: 	Count numbers: 0
+	Stat on money: 	Count money: 0
+	Stat on date: 	Count dates: 0
